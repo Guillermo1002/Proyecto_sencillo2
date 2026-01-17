@@ -1,0 +1,13 @@
+#Creacion de prueba 2
+Nombre=input("¿Cual es tu nombre?")
+print("Tu nombre es: ", Nombre)
+print("Tu nombre",Nombre, "tiene ", len(Nombre), "numeros de letras")
+Edad=input("¿Que edad tienes?")
+Edad=int(Edad)
+print("Tu edad es", Edad, "años")
+Estudiante=input("¿Actualmente estas estudiando?")
+print=bool(Estudiante)
+Facultad=input("¿En que facultad estudias?")
+print=bool(Facultad)
+Carrera=input("¿Que carrera estas estudiando?")
+print=bool(Carrera)
